@@ -1,0 +1,1 @@
+{"version":3,"file":"if-no-string-literal.d.ts","sourceRoot":"","sources":["../../src/rules/if-no-string-literal.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAY,MAAM,0BAA0B,CAAC;AAC9D,OAAO,EAAE,WAAW,EAAE,MAAM,0BAA0B,CAAC;AAEvD,KAAK,UAAU,GAAG,iBAAiB,GAAG,yBAAyB,CAAC;AAEhE;;GAEG;AACH,eAAO,MAAM,qBAAqB,EAAE,QAAQ,CAAC,UAAU,CAAC,UAAU,CA0CjE,CAAC;AAEF,eAAe,qBAAqB,CAAC"}

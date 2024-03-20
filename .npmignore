@@ -1,0 +1,6 @@
+src
+tsconfig.*
+vitest.*
+.prettierrc
+.eslint*
+test.ts
